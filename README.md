@@ -6,7 +6,7 @@ This is my project for [Data analysis with Python: Zero to Pandas]('https://jovi
 Looking back at 120 years of Olympics. The aim of this project is to analyze the evolution of Olympics in regards to events, female participation and addition of several new participating nations over the years. 
 
 ## 🗂 Dataset
-Public dataset can be found here on [Kaggle]('https://www.kaggle.com/heesoo37/120-years-of-olympic-history-athletes-and-results').
+Public dataset can be found here on [Kaggle](https://www.kaggle.com/heesoo37/120-years-of-olympic-history-athletes-and-results).
 
 ## 📜 NoteBook
-Original notebook is available here [Olympics Project]('https://jovian.ai/alkabhambhu98/olympics').
+Original notebook is available here [Olympics Project](https://jovian.ai/alkabhambhu98/olympics).
